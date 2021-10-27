@@ -1,0 +1,16 @@
+p{
+    margin-left: 5vh !important;
+    margin-right: 5vh !important;
+    font-weight:300 !important;
+    font-size:2.5vh !important;
+    color: black ;
+}
+section{
+    border-bottom: 5vh;
+    border-top: 5px;
+}
+h3 {
+    
+font-weight: bold;
+    font-size:3vh !important;
+}

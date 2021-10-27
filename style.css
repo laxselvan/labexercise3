@@ -1,0 +1,44 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+     width: 100%;
+     font-family: 'Roboto', sans-serif !important;
+    
+}
+
+/*--------------navbar--------------*/
+.bold{
+           font-weight: 550;
+           font-size: 3vh !important;
+           color: black !important;
+           
+           
+}
+
+li{
+    padding:5px;
+    color: aliceblue;
+}
+nav{
+    border-radius: 1rem;
+    font-size: 2.5vh !important;
+}
+.nav-link{
+   
+    font-weight: 550;
+    border: 2px solid transparent;
+    color: #321F28 !important;
+    margin-left: 1rem;
+    font-size: 2.75vh !important ;
+
+    
+}
+.nav-link:hover{
+      background-color: white;
+      transition: .1s;
+}
+
